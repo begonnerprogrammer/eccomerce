@@ -3,14 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3000",
-  "homepage":"https://github.com/begonnerprogrammer/eccomerce",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
-    "gh-pages": "^5.0.0",
     "install": "^0.13.0",
     "npm": "^9.8.1",
     "react": "^18.2.0",
@@ -21,8 +19,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
