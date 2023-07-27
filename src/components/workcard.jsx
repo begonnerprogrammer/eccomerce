@@ -12,7 +12,7 @@ const Workcard = (props) => {
                         <p>{props.text}</p>
                         <div className="pro-btns">
           <Link to={props.link} className='btn'>VIEW</Link>
-          <Link className='btn'>Source</Link>
+          
                         </div>
                         </div>         
             
