@@ -1,20 +1,23 @@
 const projectData=[
     {
         img:'https:img.freepik.com/premium-photo/e-commerce-online-shopping-digital-marketing-internet-business-technology-concept-virtual-screen_55997-2117.jpg?w=740',
-        title:"Title 1",
-        text:"Text 1"
+        title:"Ecommerce App",
+        text:"React,Firebase",
+        link:"https://github.com/begonnerprogrammer/fullstackeccomerce",
       
     },
     {
-        img:'https://img.freepik.com/premium-photo/api-application-programming-interface-software-development-technology_220873-10433.jpg?w=740',
-        title:"Title 2",
-        text:"Text 2"
+        img:'https://media.istockphoto.com/id/937025192/vector/tic-tac-toe-game.webp?s=1024x1024&w=is&k=20&c=QYsB5jR6pbbMAubFu013GZ8p6x07EwdRHgdxwJscE_w=',
+        title:"tic tac toe",
+        text:"html,css,Javascript",
+        link:"https://github.com/begonnerprogrammer/tictactoe",
        
     },
     {
-        img:'https://img.freepik.com/free-psd/woman-using-digital-tablet-car_53876-356.jpg?w=740&t=st=1689554947~exp=1689555547~hmac=6abb68af2ab68d0b4007ee47c1cda061d5e116a41d1f0838aba10a39753f001a',
-        title:"Title 3",
-        text:"Text 3"
+        img:'https://images.unsplash.com/photo-1616356607338-fd87169ecf1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80',
+        title:"music player",
+        text:"html,css,javascript",
+        link:"https://github.com/begonnerprogrammer/musicplayer",
 
     }
 ]

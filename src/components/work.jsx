@@ -17,6 +17,7 @@ const Work = () => {
                     img={val.img}
                     title={val.title}
                     text={val.text}
+                    link={val.link}
                     />
                 )
             })
