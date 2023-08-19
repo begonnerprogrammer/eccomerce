@@ -6,7 +6,7 @@ const Aboutcontect = () => {
     <>
      <div className='about'>
         <div className="left">
-            <h1>Who Am I</h1>
+            <h1>My name is Usman.</h1>
             <p>
                 Im a react front-end developer. I create responsive
                 secure websites for my clients.</p>

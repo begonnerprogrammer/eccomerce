@@ -11,8 +11,8 @@ const Home = () => {
       <img src={Img} alt="" className='background-img' />
       </div>
    <div className="content">
-    <p>aidhjasdjsapd</p>
-    <h1>React developer</h1>
+    <p>Hello Sir!</p>
+    <h1>I am  a React developer.</h1>
     <Link to={'/projects'} className='btn'>
     Projects
    </Link>
